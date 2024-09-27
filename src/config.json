@@ -1,0 +1,33 @@
+{
+    "1": { 
+      "central": {
+        "address": "0xdc6B6d72232e23008D2d8E01957E5C635B2Db893"
+      }
+    },
+    "3": { 
+      "central": {
+        "address": "0xA8ff9047Ad819F2B54C74933145510086B715c01"
+      }
+    },
+    "4": { 
+      "central": {
+        "address": "0x0FEb03b5feF314D99b42DeD792e08f0c2F66B1Ce"
+      }
+    },
+    "5": {
+      "central": {
+        "address": "0x8883E7118d7F6a5888A1c39B4E8a4E8b8cd70F92"
+      }
+    },
+    "42": { 
+      "central": {
+        "address": "0x77c63C4D2575217af60d20B8f6f55D8DcDa5B7D4"
+      }
+    },
+    "1337": {
+      "central": {
+        "address": "0xdc6B6d72232e23008D2d8E01957E5C635B2Db893"
+      }
+    }
+  }
+  
